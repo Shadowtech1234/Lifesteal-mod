@@ -33,3 +33,12 @@ https://www.mcbedrock.com/community/minecraft-addons/mcpe-bedrock-lifesteal-bedr
 
 Creator of the Second one: GamerDos
 https://www.9minecraft.net/lifesteal-addon-mcpe/
+
+
+Creator of the Lifesteal PocketMine Server Edition: GabBiswajit
+https://poggit.pmmp.io/p/Lifesteal?__cf_chl_tk=MUWKol.SHmRY2aF2d2U2y3im02aEd_1aqhHOtgkr2UI-1720102218-0.0.1.1-6804
+
+
+Creator of the Customies addon: CustomiesDevs
+https://poggit.pmmp.io/p/Customies
+
