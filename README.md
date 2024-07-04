@@ -27,5 +27,9 @@ How to use it:
 To use it, go into minecraft and click "play", then "new world", then go down into the setting and find behavior packs, click on activate the lifesteal addon and create the world. Them invite your friends and have some fun!
 
 
-OG creator: UnitX
+Creator of the first one: UnitX
 https://www.mcbedrock.com/community/minecraft-addons/mcpe-bedrock-lifesteal-bedrock/#google_vignette
+
+
+Creator of the Second one: GamerDos
+https://www.9minecraft.net/lifesteal-addon-mcpe/
