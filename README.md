@@ -3,10 +3,10 @@ hi, this is a addon for my friend to get on his xbox. This file is here so peopl
 
 How to download:
 PC:
-To download the file, you have to click on the file that says .mcaddon at the end. Once clicking this, you must click download raw file. Once you do that, you will have the file.
+To download the file, you have to click on the file that says .mcaddon at the end, there are 2, some work well for others, and some don'nt so try both. Once clicking this, you must click download raw file. Once you do that, you will have the file.
 
 XBOX:
-Get the app file downloader on the store and download it. Once you do that, click "Download" then click "From URL", then put in the url: https://github.com/Shadowtech1234/Lifesteal-mod-test/blob/main/Life-Steal-hearts1.mcaddon       , after this, click on download raw file.
+Get the app file downloader on the store and download it. Once you do that, click "Download" then click "From URL", then put in the url: https://github.com/Shadowtech1234/Lifesteal-mod-test/blob/main/Life-Steal-hearts1.mcaddon    or      https://github.com/Shadowtech1234/Lifesteal-mod-test/blob/main/Lifesteal-Addon-MCPE-1.20.mcaddon   , after this, click on download raw file.
 
 
 How to upload it:
