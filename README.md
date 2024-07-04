@@ -3,7 +3,7 @@ hi, this is a addon for my friend to get on his xbox. This file is here so peopl
 
 How to download:
 PC:
-To download the file, you have to click on the file that says .mcaddon at the end, there are 2, some work well for others, and some don'nt so try both. Once clicking this, you must click download raw file. Once you do that, you will have the file.
+To download the file, you have to click on the file that says .mcaddon at the end, there are 2, some work well for others, and some don'nt so try both. Once clicking this, you must click download raw file. Once you do that, you will have the file. Or if you need the files for PocketMine servers, you will need to go into the folder named "For PocketMine Servers" and download both of the raw files in that folder. If you are confused for what the Customies thing is, it allows PocketMine servers to allow the Lifesteal Mod work without corroption. If you don'nt belive me and think that it is a virus, you can try for yourself by only using the "lifesteal.phar", it won'nt work unless the Customies is with it.
 
 XBOX:
 Get the app file downloader on the store and download it. Once you do that, click "Download" then click "From URL", then put in the url: https://github.com/Shadowtech1234/Lifesteal-mod-test/blob/main/Life-Steal-hearts1.mcaddon    or      https://github.com/Shadowtech1234/Lifesteal-mod-test/blob/main/Lifesteal-Addon-MCPE-1.20.mcaddon   , after this, click on download raw file.
@@ -12,7 +12,7 @@ Get the app file downloader on the store and download it. Once you do that, clic
 How to upload it:
 
    For pc  (mac does not work):
-   once you have the file on your pc, you must have minecraft bedrock edition becuase this is a bedrock edition mod. If you have it installed, you can simply double click the file in your file manager.
+   once you have the file on your pc, you must have minecraft bedrock edition becuase this is a bedrock edition mod. If you have it installed, you can simply double click the file in your file manager. For the PocketMine servers, you have to first access the server files, and remember that your server has to have the PoketMine software. Then go into the plugins folder and upload the 2 files "lifesteal.phar" and "customies.phar". Then reboot your server and it should work!
       
   For Xbox  (Must be xbox one or xbox series s or x):
     To do this, there are 2 ways to do so:
