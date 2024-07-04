@@ -1,4 +1,4 @@
-hi, this is a addon for my friend to get on his xbox. This file is here so people can download it without having to download it from a website with weird and sus ads. Credit to the person who created it.
+hi, this is a addon for my friend to get on his xbox. This file is here so people can download it without having to download it from a website with weird and sus ads. Credit to the people who created it.
 
 
 How to download:
